@@ -1,2 +1,1 @@
-Nitiwat (Boss) : Chapter 0 - course
-Introduction & Set up Environment
+Nitiwat (Boss) : Chapter 2 - Basic NPM & Basic Modern Javascript
